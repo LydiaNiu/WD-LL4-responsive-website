@@ -1,0 +1,14 @@
+/* This is the main CSS file for your website */
+
+/* Style for the main header */
+h1 {
+  color: blue; /* Makes the header text blue */
+  text-align: center; /* Centers the header text */
+}
+
+/* Style for the body */
+body {
+  font-family: Arial, sans-serif; /* Sets a simple, easy-to-read font */
+  background-color: #f0f0f0; /* Light gray background color */
+  margin: 20px; /* Adds space around the content */
+}
